@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-walkthrough",
+    "slug": "react-native-walkthrough",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-walkthrough"
+}
